@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "f4ae5edd82217c5e4c985e86e72074d747eb1edb",
+    "author": "vbaliga <vbaliga87@gmail.com>",
+    "time": "2021-07-28 18:16:35",
+    "files": 6,
+    "merge": false,
+    "message": "refresh metadata and docs\n"
+  },
+  "remote": "https://github.com/ropensci/pathviewr",
+  "pkg": "pathviewr"
+}
