@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "e591cb88815bc706e6415472d2c6846cf639ad8c",
+    "author": "vbaliga <vbaliga87@gmail.com>",
+    "time": "2023-03-08 16:13:09",
+    "files": 1,
+    "merge": false,
+    "message": "cran v1.1.7\n"
+  },
+  "repo": "https://github.com/ropensci/pathviewr",
+  "pkg": "pathviewr"
+}
