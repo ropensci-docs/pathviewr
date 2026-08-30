@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "54d6569845ec1f824161cafd0b72eb7daf6217f5",
+    "author": "vbaliga <vbaliga87@gmail.com>",
+    "time": "2025-06-13T20:05:39Z",
+    "files": 7,
+    "merge": false,
+    "message": "work out small bugs for 1.1.8\n"
+  },
+  "repo": "https://github.com/ropensci/pathviewr",
+  "pkg": "pathviewr",
+  "time": "2026-08-30T07:39:50Z"
+}
